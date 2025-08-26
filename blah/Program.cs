@@ -91,7 +91,10 @@ namespace blah
 
             // Upgift 3
 
-            /*
+            ///*
+            Console.WriteLine("-------------------------------------------------------------------------------------");
+            Console.WriteLine("| Year: 2025 | Month: 08 August |                                                   |");
+            Console.WriteLine("-------------------------------------------------------------------------------------");
             string[] days = { "  Monday ", " Tuesday ", "Wednesday", "Thursday ", "  Friday ", " Saturday", "  Sunday " };
             Console.Write("| ");
             for (int i = 0; i < 7; i++)
@@ -143,7 +146,14 @@ namespace blah
 
             }
             Console.Write("|");
-            */
+            //*/
+
+
+
+
+
+
+
         }
     }
 }
